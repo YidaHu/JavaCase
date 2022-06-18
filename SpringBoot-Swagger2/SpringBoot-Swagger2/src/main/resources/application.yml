@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /sprint-boot-swagger
+spring:
+  application:
+    name: sprint-boot-swagger
