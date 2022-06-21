@@ -1,15 +1,29 @@
 # Java系列案例
-该仓库积累了Java常用的案例，希望能够帮到你。
-
 欢迎大家PR，让我们共同维护一个优质的Java案例精选集。
 
 
 
-## Case
+## 前言
 
-- SpringBoot集成Swagger（SpringBoot-Swagger2）
+该仓库积累了Java常用的案例，将平时用到的和学习的相关案例整合进来。以方便后面能够快速的查阅和使用。
 
-- 一致性Hash实现方案（ConsistentHash）
 
-- Flink接入Kafka实现热门问题统计（HotProblemAnalysis）
+
+## 所有Case介绍
+
+### SpringBoot-Swagger2
+
+SpringBoot集成Swagger示例
+
+### ConsistentHash
+
+一致性Hash实现方案
+
+### HotProblemAnalysis
+
+- Flink使用案例
+- Flink接入Kafka数据源
+- TopN热门问题统计
+
+
 
